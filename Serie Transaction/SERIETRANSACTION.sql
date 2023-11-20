@@ -11,7 +11,7 @@ alter table Salle modify Etage int;
 #3
 insert into Salle values (1,1,24);
 insert into Salle values (2,1,26),(3,1,26),(4,2,28);
-
+ 
 #4
 #a
 drop procedure if exists deplacer;
